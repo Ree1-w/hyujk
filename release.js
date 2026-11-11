@@ -1,0 +1,1 @@
+globalThis.WEBCRAFT_RELEASE={"release":"ea35f38345b5234ddab4","manifest":{"url":"/assets/e70723d88b276e7d9b76080b84f3425faccafccee61f843ed86ca1a0c6549729.json","bytes":144588,"sha256":"e70723d88b276e7d9b76080b84f3425faccafccee61f843ed86ca1a0c6549729"},"protectDownloads":false,"defaultEdition":"durango","editions":["browser","xbox360","ps3","durango","orbis","vita","windows64"]};
